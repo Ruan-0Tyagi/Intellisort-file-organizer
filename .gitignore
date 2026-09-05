@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+dist/
+build/
+*.spec
+test_folder/
+test_folder2/
+test_folder3/
+test_empty/
+test_locked/
+test_special/
+test_ignoreonly/
+*.db
+organizer_log.txt
